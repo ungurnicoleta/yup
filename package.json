@@ -99,7 +99,7 @@
     "fn-name": "~2.0.1",
     "lodash": "^4.17.11",
     "lodash-es": "^4.17.11",
-    "property-expr": "^1.5.0",
+    "property-expr": "^2.0.3",
     "synchronous-promise": "^2.0.6",
     "toposort": "^2.0.2"
   },
